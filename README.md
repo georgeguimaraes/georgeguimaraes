@@ -8,6 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dependabot and Phoenix 1.8.x&#39;s CodeReloader Don&#39;t Work Together](https://georgeguimaraes.com/dependabot-and-phoenix-1-8-xs-codereloader-dont-work-together/)
+- [Taking Control: Building Flexible AI Workflows with Elixir&#39;s LangChain Step Mode](https://georgeguimaraes.com/building-flexible-ai-workflows-with-elixir-langchain-step-mode/)
+- [AI Agentic Frameworks are building their own Erlang/Elixir](https://georgeguimaraes.com/ai-agentic-frameworks-are-building-their-own-erlang-elixir/)
+- [Why DORA Metrics are not Enough for Managing Software Engineering Organizations](https://georgeguimaraes.com/why-dora-metrics-are-not-enough-for-managing-software-engineering-organizations/)
+- [Three signs your team needs Engineering Metrics ASAP](https://georgeguimaraes.com/three-signs-your-team-needs-engineering-metrics-asap/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
