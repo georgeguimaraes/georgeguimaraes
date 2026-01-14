@@ -27,3 +27,4 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 - [tribunal](https://github.com/georgeguimaraes/tribunal) - LLM evaluation framework for Elixir
 - [claude-code-elixir](https://github.com/georgeguimaraes/claude-code-elixir) - Claude Code plugins for Elixir
 - [claude-code-graphite](https://github.com/georgeguimaraes/claude-code-graphite) - Claude Code plugins for Graphite stacked PRs
+- [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs with AI-optimized workflow
