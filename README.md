@@ -28,3 +28,5 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 - [claude-code-elixir](https://github.com/georgeguimaraes/claude-code-elixir) - Claude Code plugins for Elixir
 - [claude-code-graphite](https://github.com/georgeguimaraes/claude-code-graphite) - Claude Code plugins for Graphite stacked PRs
 - [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs with AI-optimized workflow
+- [bazaar](https://github.com/georgeguimaraes/bazaar) - Elixir SDK for Universal Commerce Protocol, build AI-ready e-commerce APIs
+- [smelter](https://github.com/georgeguimaraes/smelter) - Code generation tool that transforms JSON Schema into Elixir modules
