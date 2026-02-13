@@ -8,11 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Live Coding Interviews Are Broken for Everyone. And Not Because of AI](https://georgeguimaraes.com/live-coding-interviews-broken/)
 - [The Boring URL Shortener: System Design Interviews on the BEAM](https://georgeguimaraes.com/the-boring-url-shortener-system-design-interviews-on-the-beam/)
 - [Full Stack AI with Elixir: San Francisco Global Elixir Meetup Talk](https://georgeguimaraes.com/full-stack-ai-with-elixir-san-francisco-global-elixir-meetup-talk/)
 - [Elixir Mentor Podcast: Forecasting, AI Agents, and the BEAM](https://georgeguimaraes.com/elixir-mentor-podcast-forecasting-ai-agents-and-the-beam/)
 - [Dependabot and Phoenix 1.8.x&#39;s CodeReloader Don&#39;t Work Together](https://georgeguimaraes.com/dependabot-and-phoenix-1-8-xs-codereloader-dont-work-together/)
-- [Taking Control: Building Flexible AI Workflows with Elixir&#39;s LangChain Step Mode](https://georgeguimaraes.com/building-flexible-ai-workflows-with-elixir-langchain-step-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
