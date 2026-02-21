@@ -8,11 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alike: Semantic Similarity Testing with the Wave Operator](https://georgeguimaraes.com/alike-semantic-similarity-testing-elixir/)
 - [Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 - [Live Coding Interviews Are Broken for Everyone. And Not Because of AI](https://georgeguimaraes.com/live-coding-interviews-broken/)
 - [The Boring URL Shortener: System Design Interviews on the BEAM](https://georgeguimaraes.com/the-boring-url-shortener-system-design-interviews-on-the-beam/)
 - [Full Stack AI with Elixir: San Francisco Global Elixir Meetup Talk](https://georgeguimaraes.com/full-stack-ai-with-elixir-san-francisco-global-elixir-meetup-talk/)
-- [Elixir Mentor Podcast: Forecasting, AI Agents, and the BEAM](https://georgeguimaraes.com/elixir-mentor-podcast-forecasting-ai-agents-and-the-beam/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
