@@ -8,11 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Test Suite Should Hit the LLM, Stop Mocking It](https://georgeguimaraes.com/your-test-suite-should-hit-the-llm/)
+- [Arcana: Embeddable RAG for Elixir/Phoenix](https://georgeguimaraes.com/arcana-embeddable-rag-elixir-phoenix/)
 - [Stephen: ColBERT-Style Neural Retrieval for Elixir](https://georgeguimaraes.com/stephen-colbert-neural-retrieval-elixir/)
 - [Vibe, Agentic, Organic: The Three Ways to Code in 2026](https://georgeguimaraes.com/vibe-agentic-organic-three-ways-to-code-2026/)
 - [Elixir/BEAM Doesn&#39;t Solve Everything for AI Agents. Addressing the Criticisms.](https://georgeguimaraes.com/what-the-critics-got-right-about-elixir-and-ai-agents/)
-- [Alike: Semantic Similarity Testing with the Wave Operator](https://georgeguimaraes.com/alike-semantic-similarity-testing-elixir/)
-- [Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
