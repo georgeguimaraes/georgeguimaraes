@@ -30,3 +30,4 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 - [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs with AI-optimized workflow
 - [bazaar](https://github.com/georgeguimaraes/bazaar) - Elixir SDK for Universal Commerce Protocol, build AI-ready e-commerce APIs
 - [smelter](https://github.com/georgeguimaraes/smelter) - Code generation tool that transforms JSON Schema into Elixir modules
+- [hallmark](https://github.com/georgeguimaraes/hallmark) - Hallucination detection for Elixir, powered by Vectara's HHEM model
