@@ -8,11 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re a Dumb Security Leader if You Mandate Password Rotation](https://georgeguimaraes.com/youre-dumb-security-leader-if-you-mandate-password-rotation/)
 - [One GitHub Account Forever. Ditch Your Company Policy.](https://georgeguimaraes.com/one-github-account-forever-ditch-your-company-policy/)
 - [Hallmark: detect LLM hallucinations locally in Elixir](https://georgeguimaraes.com/hallmark-detect-llm-hallucinations-locally-in-elixir/)
 - [Your Test Suite Should Hit the LLM, Stop Mocking It](https://georgeguimaraes.com/your-test-suite-should-hit-the-llm/)
 - [Arcana: Embeddable RAG for Elixir/Phoenix](https://georgeguimaraes.com/arcana-embeddable-rag-elixir-phoenix/)
-- [Stephen: ColBERT-Style Neural Retrieval for Elixir](https://georgeguimaraes.com/stephen-colbert-neural-retrieval-elixir/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
