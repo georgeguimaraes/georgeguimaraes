@@ -25,7 +25,7 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 - [stephen](https://github.com/georgeguimaraes/stephen) - ColBERT-style neural retrieval for Elixir
 - [leidenfold](https://github.com/georgeguimaraes/leidenfold) - Leiden algorithm bindings for Elixir
 - [tribunal](https://github.com/georgeguimaraes/tribunal) - LLM evaluation framework for Elixir
-- [claude-code-elixir](https://github.com/georgeguimaraes/claude-code-elixir) - Claude Code plugins for Elixir
+- [elixir-agent-tools](https://github.com/georgeguimaraes/elixir-agent-tools) - Elixir skills and tools for Claude Code, Codex, and other coding agents
 - [claude-code-graphite](https://github.com/georgeguimaraes/claude-code-graphite) - Claude Code plugins for Graphite stacked PRs
 - [claude-code-ghost](https://github.com/georgeguimaraes/claude-code-ghost) - Claude Code plugin for managing Ghost blogs
 - [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs with AI-optimized workflow
