@@ -1,6 +1,6 @@
 ## George Guimaraes
 
-Hands-on tech leader and repeat founder with 20+ years turning code into products. Co-founded Plataformatec (acquired by Nubank), the company behind the Elixir programming language. Currently building infrastructure for agentic commerce at New Generation.
+Hands-on tech leader and repeat founder with 20+ years turning code into products. Co-founded [Plataformatec](https://plataformatec.com) (acquired by Nubank), the company behind the [Elixir programming language](https://elixir-lang.org). Currently building infrastructure for agentic commerce at [New Generation](https://new-gen.ai).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgeguimaraes)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/georgeguimaraes)
