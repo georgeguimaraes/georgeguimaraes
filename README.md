@@ -38,5 +38,5 @@ Elixir libraries and tools:
 Coding agents and editors:
 
 - [elixir-agent-tools](https://github.com/georgeguimaraes/elixir-agent-tools) - Elixir skills for Claude Code, Codex and other coding agents, with Mix checks and Expert integration
-- [ghost-agent-tools](https://github.com/georgeguimaraes/ghost-agent-tools) - Claude Code plugin for managing Ghost blogs
+- [ghost-agent-tools](https://github.com/georgeguimaraes/ghost-agent-tools) - Agent skill for managing Ghost blogs
 - [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs and exporting AI-ready review notes
