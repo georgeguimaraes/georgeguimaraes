@@ -1,6 +1,6 @@
 ## George Guimaraes
 
-Hands-on tech leader and repeat founder with 20+ years turning code into products. Co-founded Plataformatec (acquired by Nubank), the compahy behind the Elixir programming language. Currently building infrastructure for agentic commerce at New Generation.
+Hands-on tech leader and repeat founder with 20+ years turning code into products. Co-founded Plataformatec (acquired by Nubank), the company behind the Elixir programming language. Currently building infrastructure for agentic commerce at New Generation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgeguimaraes)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/georgeguimaraes)
@@ -17,18 +17,26 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 
 ### Open Source
 
-- [awesome-ml-gen-ai-elixir](https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir) - Curated ML/GenAI resources for Elixir
-- [arcana](https://github.com/georgeguimaraes/arcana) - RAG library for Elixir/Phoenix with agentic pipelines
-- [soothsayer](https://github.com/georgeguimaraes/soothsayer) - Time series forecasting, inspired by Prophet/NeuralProphet
-- [alike](https://github.com/georgeguimaraes/alike) - Semantic similarity testing for LLM outputs
-- [hnswlib](https://github.com/elixir-nx/hnswlib) - Elixir binding for the hnswlib library (part of elixir-nx org)
-- [stephen](https://github.com/georgeguimaraes/stephen) - ColBERT-style neural retrieval for Elixir
-- [leidenfold](https://github.com/georgeguimaraes/leidenfold) - Leiden algorithm bindings for Elixir
-- [tribunal](https://github.com/georgeguimaraes/tribunal) - LLM evaluation framework for Elixir
-- [elixir-agent-tools](https://github.com/georgeguimaraes/elixir-agent-tools) - Elixir skills and tools for Claude Code, Codex, and other coding agents
-- [claude-code-graphite](https://github.com/georgeguimaraes/claude-code-graphite) - Claude Code plugins for Graphite stacked PRs
-- [claude-code-ghost](https://github.com/georgeguimaraes/claude-code-ghost) - Claude Code plugin for managing Ghost blogs
-- [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs with AI-optimized workflow
-- [bazaar](https://github.com/georgeguimaraes/bazaar) - Elixir SDK for Universal Commerce Protocol, build AI-ready e-commerce APIs
-- [smelter](https://github.com/georgeguimaraes/smelter) - Code generation tool that transforms JSON Schema into Elixir modules
-- [hallmark](https://github.com/georgeguimaraes/hallmark) - Hallucination detection for Elixir, powered by Vectara's HHEM model
+AI and ML for Elixir:
+
+- [arcana](https://github.com/georgeguimaraes/arcana) - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and a dashboard
+- [tribunal](https://github.com/georgeguimaraes/tribunal) - LLM evaluation framework: ExUnit assertions, dataset runs and CI gates
+- [alike](https://github.com/georgeguimaraes/alike) - Semantic similarity testing for LLM outputs with the `<~>` operator
+- [hallmark](https://github.com/georgeguimaraes/hallmark) - Hallucination detection with Vectara's HHEM model, running locally on Bumblebee
+- [stephen](https://github.com/georgeguimaraes/stephen) - ColBERT-style neural retrieval
+- [soothsayer](https://github.com/georgeguimaraes/soothsayer) - Time series forecasting, inspired by Prophet and NeuralProphet
+- [leidenfold](https://github.com/georgeguimaraes/leidenfold) - Leiden community detection bindings
+- [hnswlib](https://github.com/elixir-nx/hnswlib) - Approximate nearest neighbour search, in the elixir-nx org
+- [bazaar](https://github.com/georgeguimaraes/bazaar) - SDK for serving AI agent commerce protocols (UCP and ACP) from one Phoenix handler
+- [awesome-ml-gen-ai-elixir](https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir) - Curated list of ML and GenAI libraries and resources for Elixir
+
+Elixir libraries and tools:
+
+- [dayoff](https://github.com/georgeguimaraes/dayoff) - Public holidays for 200+ countries, states and regions, offline, synced daily from date-holidays
+- [smelter](https://github.com/georgeguimaraes/smelter) - JSON Schema to Elixir code generator
+
+Coding agents and editors:
+
+- [elixir-agent-tools](https://github.com/georgeguimaraes/elixir-agent-tools) - Elixir skills for Claude Code, Codex and other coding agents, with Mix checks and Expert integration
+- [ghost-agent-tools](https://github.com/georgeguimaraes/ghost-agent-tools) - Claude Code plugin for managing Ghost blogs
+- [review.nvim](https://github.com/georgeguimaraes/review.nvim) - Neovim plugin for annotating diffs and exporting AI-ready review notes
