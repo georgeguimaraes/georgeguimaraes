@@ -8,11 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [review.nvim: Code Review Annotations for AI Feedback Loops](https://georgeguimaraes.com/review-nvim-code-review-annotations-ai/)
 - [Smelter: JSON Schema to Elixir Code Generator](https://georgeguimaraes.com/smelter-json-schema-elixir-code-generator/)
 - [Best Practices Expire](https://georgeguimaraes.com/best-practices-expire/)
 - [Leidenfold: Leiden Community Detection for Elixir](https://georgeguimaraes.com/leidenfold-leiden-community-detection-elixir/)
 - [What I&#39;d Tell My Younger Self About Building Software and Scaling Teams](https://georgeguimaraes.com/what-id-tell-my-younger-self-about-building-software-and-scaling-teams/)
-- [You&#39;re a Dumb Security Leader if You Mandate Password Rotation](https://georgeguimaraes.com/youre-dumb-security-leader-if-you-mandate-password-rotation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
