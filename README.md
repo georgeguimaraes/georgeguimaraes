@@ -8,11 +8,11 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Putting Mimic.copy in test_helper.exs](https://georgeguimaraes.com/stop-putting-mimic-copy-in-test_helper-exs/)
 - [review.nvim: Code Review Annotations for AI Feedback Loops](https://georgeguimaraes.com/review-nvim-code-review-annotations-ai/)
 - [Smelter: JSON Schema to Elixir Code Generator](https://georgeguimaraes.com/smelter-json-schema-elixir-code-generator/)
 - [Best Practices Expire](https://georgeguimaraes.com/best-practices-expire/)
 - [Leidenfold: Leiden Community Detection for Elixir](https://georgeguimaraes.com/leidenfold-leiden-community-detection-elixir/)
-- [What I&#39;d Tell My Younger Self About Building Software and Scaling Teams](https://georgeguimaraes.com/what-id-tell-my-younger-self-about-building-software-and-scaling-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open Source
