@@ -19,6 +19,7 @@ Hands-on tech leader and repeat founder with 20+ years turning code into product
 
 AI and ML for Elixir:
 
+- [transmuter](https://github.com/georgeguimaraes/transmuter) - Runs Hugging Face ONNX models on any Nx backend, with no per-architecture code
 - [arcana](https://github.com/georgeguimaraes/arcana) - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and a dashboard
 - [tribunal](https://github.com/georgeguimaraes/tribunal) - LLM evaluation framework: ExUnit assertions, dataset runs and CI gates
 - [alike](https://github.com/georgeguimaraes/alike) - Semantic similarity testing for LLM outputs with the `<~>` operator
