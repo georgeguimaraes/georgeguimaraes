@@ -33,6 +33,7 @@ AI and ML for Elixir:
 
 Elixir libraries and tools:
 
+- [otera](https://github.com/georgeguimaraes/otera) - Jinja templates in pure Elixir, with Hugging Face chat templates rendered byte for byte like Python
 - [dayoff](https://github.com/georgeguimaraes/dayoff) - Public holidays for 200+ countries, states and regions, offline, synced daily from date-holidays
 - [smelter](https://github.com/georgeguimaraes/smelter) - JSON Schema to Elixir code generator
 
