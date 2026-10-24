@@ -1,4 +1,4 @@
-## George Guimaraes
+## George Guimarães
 
 Hands-on tech leader and repeat founder with 20+ years turning code into products. Co-founded [Plataformatec](https://plataformatec.com) (acquired by Nubank), the company behind the [Elixir programming language](https://elixir-lang.org). Currently building infrastructure for agentic commerce at [New Generation](https://new-gen.ai).
 
